@@ -1,12 +1,2 @@
-emoji
-imblearn
-joblib
-matplotlib
-nltk
-numpy
-pandas
-plotly
-seaborn
-scikit-learn
 streamlit
-wordcloud
+joblib
